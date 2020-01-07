@@ -1,0 +1,9 @@
+C:\Users\mitch\source\repos\dotne2ts\dotnet2ts\bin\Debug\netcoreapp2.1\dotnet2ts.deps.json
+C:\Users\mitch\source\repos\dotne2ts\dotnet2ts\bin\Debug\netcoreapp2.1\dotnet2ts.dll
+C:\Users\mitch\source\repos\dotne2ts\dotnet2ts\obj\Debug\netcoreapp2.1\dotnet2ts.csprojAssemblyReference.cache
+C:\Users\mitch\source\repos\dotne2ts\dotnet2ts\obj\Debug\netcoreapp2.1\dotnet2ts.csproj.CoreCompileInputs.cache
+C:\Users\mitch\source\repos\dotne2ts\dotnet2ts\obj\Debug\netcoreapp2.1\dotnet2ts.AssemblyInfoInputs.cache
+C:\Users\mitch\source\repos\dotne2ts\dotnet2ts\obj\Debug\netcoreapp2.1\dotnet2ts.AssemblyInfo.cs
+C:\Users\mitch\source\repos\dotne2ts\dotnet2ts\bin\Debug\netcoreapp2.1\dotnet2ts.pdb
+C:\Users\mitch\source\repos\dotne2ts\dotnet2ts\obj\Debug\netcoreapp2.1\dotnet2ts.dll
+C:\Users\mitch\source\repos\dotne2ts\dotnet2ts\obj\Debug\netcoreapp2.1\dotnet2ts.pdb
